@@ -1,0 +1,12 @@
+com/project/pom/Base.java
+ com.project.pom.Base
+com/project/pom/RegisterPage.java
+ com.project.pom.RegisterPage
+com/project/test/LoginTest.java
+ com.project.test.LoginTest
+com/project/pom/LoginPage.java
+ com.project.pom.LoginPage
+com/project/test/SuiteTest.java
+ com.project.test.SuiteTest
+com/project/test/RegisterTest.java
+ com.project.test.RegisterTest
